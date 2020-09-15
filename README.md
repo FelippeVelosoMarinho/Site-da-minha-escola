@@ -3,7 +3,8 @@
   O site está disponível pelo GitHub Pages no endereço https://felippevelosomarinho.github.io/Site-da-minha-escola/ 
  
  ## Funcionalidades
- ###Barra de Navegação
+
+### Barra de Navegação
  ![Barra de Navegação](https://user-images.githubusercontent.com/60450622/93271482-bf487b00-f789-11ea-97f1-e3359fece5bb.PNG)
     
  Como um projeto amador a barra de navegação é simples e contem poucas informações, divididas entre A Escola, Sala de Aula, Biblioteca e Redes Sociais.
