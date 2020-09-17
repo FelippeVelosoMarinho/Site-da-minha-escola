@@ -36,7 +36,7 @@
     
   ![Sala de Aula](https://user-images.githubusercontent.com/60450622/93272010-eeabb780-f78a-11ea-88f1-92783792319b.PNG)
     
-  Onde Eestará aulas onde professores passarão ou indicarão.
+  Onde vão estar aulas onde professores passarão ou indicarão.
     
  ### Biblioteca 
     
